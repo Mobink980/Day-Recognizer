@@ -1,0 +1,11 @@
+E:\programs\Visual Studio\DayRecognizer\bin\Debug\netcoreapp2.1\DayRecognizer.deps.json
+E:\programs\Visual Studio\DayRecognizer\bin\Debug\netcoreapp2.1\DayRecognizer.runtimeconfig.json
+E:\programs\Visual Studio\DayRecognizer\bin\Debug\netcoreapp2.1\DayRecognizer.runtimeconfig.dev.json
+E:\programs\Visual Studio\DayRecognizer\bin\Debug\netcoreapp2.1\DayRecognizer.dll
+E:\programs\Visual Studio\DayRecognizer\bin\Debug\netcoreapp2.1\DayRecognizer.pdb
+E:\programs\Visual Studio\DayRecognizer\obj\Debug\netcoreapp2.1\DayRecognizer.csprojAssemblyReference.cache
+E:\programs\Visual Studio\DayRecognizer\obj\Debug\netcoreapp2.1\DayRecognizer.csproj.CoreCompileInputs.cache
+E:\programs\Visual Studio\DayRecognizer\obj\Debug\netcoreapp2.1\DayRecognizer.AssemblyInfoInputs.cache
+E:\programs\Visual Studio\DayRecognizer\obj\Debug\netcoreapp2.1\DayRecognizer.AssemblyInfo.cs
+E:\programs\Visual Studio\DayRecognizer\obj\Debug\netcoreapp2.1\DayRecognizer.dll
+E:\programs\Visual Studio\DayRecognizer\obj\Debug\netcoreapp2.1\DayRecognizer.pdb
